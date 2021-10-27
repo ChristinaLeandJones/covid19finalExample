@@ -1,6 +1,6 @@
 ---
 title: "Moderna Vaccine_performance"
-author: "Christina Jones"
+author: "Christina Leand Jones"
 date: "6 Feb 2021"
 output: html_document
 ---
